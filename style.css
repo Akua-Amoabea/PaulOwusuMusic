@@ -283,7 +283,7 @@ header{
 }
 /*-----------footer-------------*/
 footer{
-    margin-top: 7rem;
+    margin-top: 6rem;
 }
 .footer-container{
     border-top: 0.5rem solid var(--color-bg-4);
