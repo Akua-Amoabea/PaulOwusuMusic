@@ -1,4 +1,4 @@
-#🎧🎤🎵 Paul Owusu Music Booking Web Page
+# 🎧🎤🎵 Paul Owusu Music Booking Web Page
 A responsive portflio and booking webpage designed for a gospel artist (Paul Owusu). Built to show case the artist music, events and allow fans and event organizers to request bookings.
 
 ---
